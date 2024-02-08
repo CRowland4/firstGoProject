@@ -25,5 +25,5 @@ func main() {
 
 	var netIncome = income - (staffExpenses + otherExpenses)
 	fmt.Print("\nNet income: $")
-	fmt.Print(netIncome)
+	fmt.Println(netIncome)
 }
